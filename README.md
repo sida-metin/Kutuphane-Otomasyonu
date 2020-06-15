@@ -1,1 +1,1 @@
-# Kutuphane-Otomasyonu
+# Kutuphane Otomasyonu
